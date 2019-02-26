@@ -1,0 +1,4 @@
+# UNIT 3 PRODUCTION AND SOFTWARE LICENSING
+Unit 3 revolves around methods and systems for the implementation of Open Source Software and around licensing of open source software products. User terms involve the legal expression of the Open Source and Free Software paradigms and have become one of the primary factors that determine the success or failure of commercial software projects. Consequently, choosing the right user license is not a trivial decision in open source projects and has eventually become a “hot topic” among the free and open source communities.
+
+Practical open source programming will continue introducing Python methods for QGIS software development, adding the topics of handling feature geometries and using projection systems to our growing script already including project and layer handling tasks.
