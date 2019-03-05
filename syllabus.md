@@ -15,8 +15,7 @@ Lab 2: Hurricane Sergio
 
 ## Week 5: OpenLayers
 
-## Week 6: OpenLayers
-
+## Week 6: Python/R
 
 Open Source Software
 Licenses
