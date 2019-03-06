@@ -1,4 +1,4 @@
-# This class is largely administered 
+# Github Classroom Overview
 
 You will receive an email with a link to a Github Classroom. It will look like https://classroom.github.com/a/XXXXXX. 
 Follow the link provided in your email to add yourself to the classroom. 
