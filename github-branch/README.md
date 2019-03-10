@@ -36,4 +36,4 @@ repo. Read my comments and note what specific changes need to be made. Make the 
 Navigate to this file from the `Code` tab and edit it directly, then respond in the *Pull Request Conversation* that you have
 made the requested changes. Make sure to `Resolve conversation` to any and all comments that you have addressed.
 
-After you have resolved the conversation I will 
+After you have made the commits to the branch and resolved the conversations I will approve the Pull request and that will complete the assignment.
