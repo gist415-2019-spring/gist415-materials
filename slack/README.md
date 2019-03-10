@@ -1,5 +1,6 @@
 # Assignment: Slack
 ## Worth: 10 points
+## Due: 2 days
 
 ## Directions
 1. (2 pts) You will have received an invitation to slack. If not, follow this [link](https://join.slack.com/t/ua-gist-bs/shared_invite/enQtNTcyMzAyNjk2NjkzLWMwMWE5MDBiN2I4NTVkYmJkM2IyMzBlY2MwNTQ4ZjFjYzBjMWVlZDY3MTEwMTE5NWM0OTM4MWI1ZWJmMWFmNzg), which expires April 7, 2019.
